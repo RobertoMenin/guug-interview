@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <p>TELA MAIN</p>
         <p>
-          Rota para bater a cada 1 minuto https://dev.guug.com.br/password/test
+          Rota para bater a cada 15 segundos https://dev.guug.com.br/password/test
         </p>
         <p>
           A interface do porteiro deve ter uma opção com o botão aceitar e
